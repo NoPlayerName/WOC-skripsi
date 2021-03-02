@@ -1,0 +1,61 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 350px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+.search{
+  width: 50%;
+
+}
+.Search{
+  min-height: 120px;
+}
+
+
+@media (min-width: 576px) {
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+  #search{
+    width: 50%;
+    margin-left: 24%;
+
+  }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+  #search{
+    width: 50%;
+
+
+  }
+ }
+
+ @media (min-width: 1500px) {
+   #search{
+     width: 50%;
+
+
+   }
+  }
